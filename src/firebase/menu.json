@@ -3,32 +3,32 @@
     {
       "items": [
         {
-          "desc": "Classic delight with 100% real mozzarella cheese",
+          "desc": "Hawaiian Chicken Skewers",
           "id": 1,
-          "img": "IMAGE LINK",
-          "name": "Margherita",
-          "price": 298
+          "img": "https://storage.cloud.google.com/staging.the-grills.appspot.com/hawaiian-chicken-skewers.avif?authuser=0",
+          "name": "Chicken Skewers",
+          "price": 295
         },
         {
-          "desc": "Barbecue chicken for that extra zing",
+          "desc": "Grilled Stuffed Peppers",
           "id": 2,
-          "img": "IMAGE LINK",
-          "name": "Barbecue Chicken",
-          "price": 298
+          "img": "https://storage.cloud.google.com/staging.the-grills.appspot.com/grilled-stuffed-peppers.avif?authuser=0",
+          "name": "Stuffed Peppers",
+          "price": 295
         },
         {
-          "desc": "Delightful combo of grilled mushroom & veggies",
+          "desc": "Grilled Beer Brats",
           "id": 3,
-          "img": "IMAGE LINK",
-          "name": "Farmhouse",
+          "img": "https://storage.cloud.google.com/staging.the-grills.appspot.com/grilled-beer-brats.avif?authuser=0",
+          "name": "Beer Brats",
           "price": 395
         },
         {
-          "desc": "Supreme combo of 3 types of chicken",
+          "desc": "Grilled Zucchini With Ricotta & Walnuts",
           "id": 4,
-          "img": "IMAGE LINK",
-          "name": "Non Veg Supreme",
-          "price": 570
+          "img": "https://storage.cloud.google.com/staging.the-grills.appspot.com/grilled-zucchini-ricotta-walnuts.avif?authuser=0",
+          "name": "Zucchini With Ricotta & Walnuts",
+          "price": 550
         }
       ],
       "name": "Best Sellers"
@@ -36,14 +36,25 @@
     {
       "items": [
         {
-          "desc": "Classic delight with 100% real mozzarella cheese",
+          "desc": "Campfire Hot Dog Skewers",
           "id": 1,
-          "img": "IMAGE LINK",
-          "name": "Margherita",
+          "img": "https://storage.cloud.google.com/staging.the-grills.appspot.com/campfire-hot-dog-skewers.avif?authuser=0",
+          "name": "Hot Dog Skewers",
           "price": 298
         }
       ],
-      "name": "Veg Pizzas"
-    }
-  ]
+      "name": "Vegetable Grilled"
+    },
+    {
+      "items": [
+        {
+          "desc": "Grilled Tomato Feta Pizzettes",
+          "id": 1,
+          "img": "https://storage.cloud.google.com/staging.the-grills.appspot.com/tomato-feta-pizzette-secondary.avif?authuser=0",
+          "name": "Tomato Feta Pizzettes",
+          "price": 300
+        }
+       ]
+}
+]
 }

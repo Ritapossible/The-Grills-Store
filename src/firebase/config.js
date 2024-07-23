@@ -1,4 +1,4 @@
-const firebaseConfig = {
+const firebaseConfi {
     apiKey: "AIzaSyBzAyw4M_sidjEZaLMeHtdFqALLsgHDMeI",
     authDomain: "the-grills.firebaseapp.com",
     projectId: "the-grills",
